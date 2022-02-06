@@ -6,9 +6,17 @@ import clases.Triangulo;
 /**
  * Esta clase proporciona la entrada de la aplicación y en ella se
  * crean varias figuras de las cuales se mostrará su área
+ *
  * 
  * @version 0.0.1, 31/01/2022
  * @author Programador
+ *
+ * <br><br>
+ * Se importan las clases:
+ * @see Circulo
+ * @see Figura
+ * @see Rectangulo
+ * @see Triangulo
  */
 public class Main {
 

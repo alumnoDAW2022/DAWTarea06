@@ -8,6 +8,7 @@ package clases;
  *
  * @version 0.0.1 31/01/2022
  * @author Programador
+ * @see Figura
  */
 public class Triangulo extends Figura{
     
